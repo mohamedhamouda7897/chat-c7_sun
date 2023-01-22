@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681055802102",
+    "project_id": "chat-c7-sun",
+    "storage_bucket": "chat-c7-sun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681055802102:android:caba19c699a9a79e1212d7",
+        "android_client_info": {
+          "package_name": "com.example.chat_c7_sun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681055802102-i1tn24rf6n21oismf27beb9dvdvi0tfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnwxeiHdbKpEI0ijOUyt9RpWNUUEO0tx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681055802102-i1tn24rf6n21oismf27beb9dvdvi0tfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
